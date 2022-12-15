@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758810139442",
+    "project_id": "lucid-authority-365519",
+    "storage_bucket": "lucid-authority-365519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758810139442:android:86fe5604170a234d89152b",
+        "android_client_info": {
+          "package_name": "com.example.examen_ordinario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758810139442-nj1cmr54gma885cdqult0oic5ppdoj07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEXtOEaG8VnlINYrPadIhCJLV8BZn7D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758810139442-nj1cmr54gma885cdqult0oic5ppdoj07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
